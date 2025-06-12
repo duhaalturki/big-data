@@ -1,7 +1,12 @@
-# big-data
-This project leverages Apache Spark to analyze transactional data from an online
-retail store, aiming to uncover actionable insights into customer behavior and enable
-data-driven marketing strategies. Using a dataset of 541,909 transactions from the UCI
-Machine Learning Repository, we implemented a scalable machine learning workflow to
-segment customers based on their purchasing patterns (Recency, Frequency, and
-Monetary Value).
+# Big Data Customer Segmentation
+
+This project leverages Apache Spark to analyze transactional data from an online retail store, aiming to uncover actionable insights into customer behavior and enable data-driven marketing strategies.
+
+## Dataset
+
+- **Source:** [UCI Machine Learning Repository - Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
+- **Size:** 541,909 transactions
+
+## Objective
+
+Segment customers based on their purchasing patterns using Recency, Frequency, and Monetary Value (RFM) analysis.
